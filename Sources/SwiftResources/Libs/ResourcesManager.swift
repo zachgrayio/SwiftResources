@@ -8,7 +8,7 @@
 import Foundation
 
 
-class ResourcesManager {
+public class ResourcesManager {
     
     /// Resources errors
     public enum Error: Swift.Error {
